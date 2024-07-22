@@ -1,0 +1,42 @@
+{
+    "equities": [],
+    "fx": [],
+    "commodities": [],
+    "metals": [],
+    
+    "crypto": [
+        "LTC_USD",
+        "BTC_USD",
+        "ETH_USD",
+        "BCH_USD"
+    ],
+
+    "indices": [],
+
+    "bonds": [],
+
+    "fx_codes": [
+        "HKD",
+        "HUF",
+        "GBP",
+        "CNH",
+        "NOK",
+        "EUR",
+        "TRY",
+        "SGD",
+        "CZK",
+        "USD",
+        "ZAR",
+        "INR",
+        "SEK",
+        "JPY",
+        "CAD",
+        "NZD",
+        "THB",
+        "PLN",
+        "AUD",
+        "CHF",
+        "DKK",
+        "MXN"
+    ]
+}
